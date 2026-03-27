@@ -14,4 +14,3 @@ This repository contains the code and models for a Computer Vision project focus
 * **Language:** Python
 * **Core Libraries:** OpenCV (cv2), NumPy, Pandas
 * **Machine Learning:** PyTorch / TensorFlow *(Delete whichever one you didn't use)*, Scikit-learn
-* **Environment:** Google Colab, Jupyter Notebook
